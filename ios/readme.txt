@@ -1,2 +1,1 @@
-this is ios c
-fdfs
+this is ios 
